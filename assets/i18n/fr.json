@@ -1,0 +1,37 @@
+{
+  "title": "7 Menu de Boissons",
+  "beer": {
+    "title": "Bière",
+    "description": "La bière est une boisson alcoolisée fabriquée à partir de la fermentation de grains tels que l'orge ou les pommes de terre. La bière a une couleur foncée et un goût amer dû à la présence de houblon et de thym. La bière a de nombreuses saveurs différentes, de légères à corsées, et elle est consommée dans le monde entier."
+  },
+  "coconut_cocktail": {
+    "title": "Cocktail de noix de coco",
+    "description": "Le cocktail à la noix de coco est un cocktail principalement composé de noix de coco fraîche et d'alcool, souvent servi dans des verres à boire. Le cocktail à la noix de coco a une délicieuse saveur de noix de coco et d'alcool se mélangeant ensemble, créant une saveur très attrayante et agréable."
+  },
+  "lemonade": {
+    "title": "Limonade",
+    "description": "La limonade est une boisson fabriquée à partir d'eau, de sucre, de citrons ou de citrons frais, et d'autres ingrédients tels que la menthe, le citronnelle... La limonade est souvent consommée par temps chaud pour se rafraîchir et donne une sensation de fraîcheur à la personne qui la boit. La limonade est également connue pour ses bons effets sur la santé, tels que la réduction de la fatigue, la réduction du stress, l'amélioration du système immunitaire et le soutien de la fonction digestive."
+  },
+  "milkshake": {
+    "title": "Milkshake",
+    "description": "Le milkshake est une boisson faite de lait, de crème et d'arômes. Cette boisson peut être mélangée avec des saveurs telles que le chocolat, la vanille, la fraise, les masques Oreo et de nombreux autres fruits. Parfois, de l'alcool est également ajouté pour créer une version au chocolat ou au vin. Le milkshake est souvent servi dans les cafés, les centres sportifs et les restaurants. C'est une excellente boisson désaltérante par temps chaud et est souvent utilisée comme dessert après votre repas."
+  },
+  "orange_juice": {
+    "title": "Jus d'orange",
+    "description": "Le jus d'orange est une boisson fabriquée à partir de jus d'oranges fraîches. L'orange est une source de vitamine C et d'antioxydants bénéfiques pour la santé. Le jus d'orange est souvent consommé froid ou sucré selon le goût de l'utilisateur. En raison de sa commodité et de ses effets bénéfiques sur la santé, le jus d'orange est populaire et largement utilisé partout dans le monde."
+  },
+  "celery_juice": {
+    "title": "Jus de céleri",
+    "description": "Le jus de céleri est une boisson extraite de la racine de céleri frais, ayant un goût rafraîchissant et délicieux. Le jus de céleri est riche en fibres et en vitamine K, aidant à améliorer la digestion, à soutenir la perte de poids et à améliorer la santé cardiaque. De plus, le jus de céleri a l'effet de réduire le stress et de renforcer le système immunitaire du corps."
+  },
+  "pineapple_juice": {
+    "title": "Jus d'ananas",
+    "description": "Le jus d'ananas est une boisson obtenue en pressant ou en broyant du jus d'ananas frais. Il a une saveur sucrée, parfumée et nutritive. Le jus d'ananas est chargé en vitamine C et en fibres, aidant à renforcer le système immunitaire et à soutenir la digestion. Il est souvent dilué ou mélangé avec de la glace pour créer une boisson rafraîchissante et riche."
+  },
+  "quantity": "Quantité commandée :",
+  "delete_all": "Tout supprimer",
+  "selected_menu": "Menu sélectionné :",
+  "delete": "Supprimer",
+  "add": "Ajouter",
+  "order": "Commander"
+}

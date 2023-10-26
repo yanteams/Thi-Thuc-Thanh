@@ -1,0 +1,37 @@
+{
+  "title": "7 Beverage Menu",
+  "beer": {
+    "title": "Beer",
+    "description": "Beer is an alcoholic beverage made from the fermentation of grains such as barley or potatoes. The beer has a dark color and a bitter taste due to the presence of hops and thyme. Beer has many different flavors, from light to full-bodied, and is popularly consumed worldwide."
+  },
+  "coconut_cocktail": {
+    "title": "Coconut Cocktail",
+    "description": "Coconut Cocktail is a cocktail made primarily from fresh coconut and alcohol, often served in drinking glasses. Coconut Cocktail has a delicious flavor of coconut and alcohol blending together, creating a very attractive and enjoyable flavor."
+  },
+  "lemonade": {
+    "title": "Lemonade",
+    "description": "Lemonade is a drink made from water, sugar, lemons or fresh lemons, and other ingredients such as mint, lemongrass... Lemonade is often consumed in hot weather for refreshment and gives a refreshing feeling to the person drinking it. Lemonade is also known for its good effects on health, such as reducing fatigue, reducing stress, enhancing the immune system, and supporting digestive function."
+  },
+  "milkshake": {
+    "title": "Milkshake",
+    "description": "Milkshake is a drink made from milk, cream, and flavoring. This beverage can be blended with flavors such as chocolate, vanilla, strawberry, Oreo masks and many other fruits. Sometimes, alcohol is also added to create a chocolate or wine version. Milkshake is often served at cafes, sports centers, and restaurants. It is an excellent thirst-quenching beverage on hot days and is often used as a dessert after your meal."
+  },
+  "orange_juice": {
+    "title": "Orange Juice",
+    "description": "Orange juice is a drink made from juice of fresh oranges. Orange is a source of vitamin C and antioxidants that are good for health. Orange juice is often consumed cold or sweetened depending on the user's taste. Due to its convenience and good effects on health, orange juice is popular and widely used all over the world."
+  },
+  "celery_juice": {
+    "title": "Celery Juice",
+    "description": "Celery juice is a beverage extracted from fresh celery root, with a refreshing and delicious taste. Celery juice is rich in fiber and vitamin K, helping to improve digestion, support weight loss, and improve heart health. In addition, celery juice has the effect of reducing stress and strengthening the body's immune system."
+  },
+  "pineapple_juice": {
+    "title": "Pineapple Juice",
+    "description": "Pineapple juice is a beverage produced by squeezing or grinding fresh pineapple juice. It has a sweet, fragrant, and nutritious taste. Pineapple juice is loaded with vitamin C and fiber, helping to boost the immune system and support digestion. It is often diluted or mixed with ice to create a refreshing and rich beverage."
+  },
+  "quantity": "Quantity Ordered:",
+  "delete_all": "Delete All",
+  "selected_menu": "Selected Menu:",
+  "delete": "Delete",
+  "add": "Add",
+  "order": "Order"
+}

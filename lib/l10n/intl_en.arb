@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+
+  "app_title": "7 Drinks Menu",
+  "beer_title": "Beer",
+  "beer_description": "Beer is an alcoholic drink made by fermenting grains like barley or potato. Beer has a dark colour and bitter taste from the hops and herbs. There are many different flavours of beer, from light to dark, and is commonly consumed all over the world.",
+
+  // các strings khác thuộc các món nước trong menu...
+
+  "delete_all": "Delete All",
+  "selected_item_title": "Selected Item:",
+  "quantity_ordered": "Quantity Ordered:",
+  "delete_selected_item": "Delete Item",
+  "add_to_order": "Add to Order",
+  "place_order": "Place Order"
+}
